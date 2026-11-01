@@ -1,0 +1,354 @@
+
+--- PAGE 1 ---
+WORLD BANK GROUP — PURCHASE ORDER GENERAL TERMS AND CONDITIONS
+GOODS & SERVICES
+
+April 2025
+
+1. OFFER. The Purchase Order and these General Terms and Conditions
+(‘PO’) constitute an offer by the World Bank Group member specified in this PO
+(‘Purchaser’), to the party to whom this PO is addressed ("Vendor") to contract for
+Vendor to provide to Purchaser the goods and/or services specified in this PO
+(‘Goods’ and “Services,” respectively) at the price specified in this PO. Vendors
+acceptance is limited to the terms and conditions of this offer and Purchaser objects
+to any additional or different Vendor terms. For the purpose of this PO (a) the
+“World Bank Group" means the International Bank for Reconstruction and
+Development, the Multilateral Investment Guarantee Agency, the International
+Finance Corporation, the International Development Association, and the
+Intemational Centre for the Settlement of Investment Disputes, (b) “World Bank"
+means the Intemational Bank for Reconstruction and Development, and (c)
+“Affiliates” means all members of the World Bank Group other than Purchaser.
+
+2. ACCEPTANCE. This PO will be deemed accepted by Vendor upon the earlier
+of (a) Purchaser's receipt of a copy of this PO duly executed by Vendor; (b)
+Vendor's delivery of Goods or commencement of Services; or (c) Vendor's
+acceptance of full or partial payment for the Goods and/or Services required under
+this PO.
+
+3. TIME OF DELIVERY AND PERFORMANCE. Vendor will deliver the Goods
+or perform the Services, as applicable, within the time period stated on this PO.
+Time is of the essence with respect to Vendor's obligations under this PO.
+
+4. PACKAGING (Goods Only). Vendor will package Goods for shipment in
+accordance with Purchaser's instructions or, if there are no such instructions, in
+accordance with industry best practices ensuring that Goods shipped to Purchaser
+will be free of damage and using the most sustainable materials reasonably
+available for packaging. Vendor will include the PO number on all packaging and
+any associated documentation and correspondence. Purchaser reserves the right
+to reject any shipments deemed by Purchaser to be inadequately packaged.
+
+5. WARRANTIES, Vendor represents and warrants that all Goods and Services
+delivered or performed under this PO will (a) be merchantable (Goods only); (b)
+be free from defects in material and workmanship; (c) be fit and sufficient for the
+purposes intended; (d) be in strict conformance with any applicable statements of
+work, terms of reference or other specifications furnished by Purchaser; (e) not
+infringe or misappropriate any third party rights; (f) be furnished by qualified
+personnel in accordance with applicable industry standards; and (g) comply with
+applicable laws. All warranties specified herein will be in addition to any other
+warranties, express, statutory, or implied. These warranties will survive Purchaser's
+inspection, acceptance, and payment, and Purchaser's continued use of Goods or
+Services after notifying Vendor of their failure to conform to this PO or of a breach
+of warranty will not be considered a waiver of Purchaser's right to any remedy.
+
+6. INSPECTION, ACCEPTANCE OR REJECTION. Purchaser will have thirty
+(30) calendar days after receipt of Goods or performance of Services to accept or
+reject them as non-conforming with this PO. Rejected Goods will be returned to
+Vendor, transportation charges collect, or held by Purchaser for disposition at
+Vendor's risk and expense. If Goods delivered or Services performed are rejected,
+Purchaser will have the right, at Purchaser's election, to require redelivery,
+correction or, if applicable, a refund by Vendor. Purchaser's payment under this PO
+will not be deemed acceptance of any Goods delivered or Services performed
+hereunder. If Purchaser fails to reject the Goods or Services within thirty (30) days,
+the Goods or Services will be deemed accepted. Acceptance will not relieve Vendor
+of its warranty obligations or liability for latent defects.
+
+7. TITLE AND RISK OF LOSS (Goods Only). Vendor represents and warrants
+that Vendor has title to the Goods and is fully qualified to sell, lease, or license the
+Goods. Title to all Goods furnished hereunder will be transferred free and clear of
+all liens, claims, security interests, and other encumbrances when title thereto
+passes to Purchaser. Title will pass to Purchaser on the earlier of the date that
+Purchaser (a) pays for the Goods; (b) takes delivery of the Goods; or (c) terminates
+this PO for default. Vendor assumes all risk of loss or damage for Goods until such
+time as conforming Goods have been delivered and unloaded at F.O.B. point,
+inspected, and accepted, in writing, by Purchaser. Notwithstanding the above, if
+this PO contains different terms for the passage of title or risk of loss, then such
+different terms will govern.
+
+8. INVOICING AND PAYMENT. Unless otherwise stated in this PO, Vendor will:
+(2) invoice Purchaser for the amount due under this PO within thirty (30) days of
+delivery of the Goods or performance of the Services; and (b) keep updated
+Vendor's profile in Purchaser's Vendor Portal including Vendor's current remittance
+bank information and representative contact details, prior to submitting any invoice,
+in accordance with Purchaser's instructions and this PO. The invoice will include
+the PO number and, if applicable, item number, description of the Goods or
+Services, quantities, unit price, totals, and remittance bank information. Unless
+otherwise stated in this PO, Purchaser will pay Vendor within thirty (30) days of
+receipt of an invoice correctly submitted in accordance with this PO. Purchaser is
+immune from all taxation and custom duties under its constituent treaty. Vendor
+authorizes Purchaser to deduct from any invoice presented in connection with this
+PO any erroneous allocation for taxation or duties, without prior notice to Vendor
+
+Page 1 of 2
+
+and without cost to Purchaser. Payment of such corrected invoiced amount will
+constitute full payment by Purchaser.
+
+9. SETOFF. Without prejudice to any other right or remedy it may have,
+Purchaser reserves the right to set off at any time any amount owing to Purchaser
+by Vendor against any amount payable by Purchaser to Vendor.
+
+40. INSURANCE. Prior to the commencement of this PO, Vendor will obtain and
+maintain at its own expense for the duration of this PO, appropriate insurance
+coverage with appropriate loss limits for this PO, including any insurance required
+by the law of Vendor's country of incorporation or license and by the country where
+the work is to be performed. Upon Purchaser's request, Vendor will provide to
+Purchaser certificates of insurance for such coverage.
+
+41. CONFIDENTIALITY. All information disclosed by, or on behalf of, Purchaser
+or any other member of the World Bank Group to Vendor, whether disclosed orally
+or disclosed or accessed in written, electronic, or other form or media, and whether
+or not marked, designated or otherwise identified as confidential, and all
+information otherwise relating to the Goods and Services to be provided under this
+PO (“Confidential Information”) is confidential. Vendor will only use Confidential
+Information as necessary to deliver the Goods or perform the Services under this
+PO and will not disclose Confidential Information to any third party without
+Purchaser's express written consent. Upon Purchaser's request, Vendor will
+promptly return or destroy, as instructed by Purchaser, all Confidential Information,
+This section 11 will not apply to Confidential Information that: (a) is within the public
+domain; (b) was known to Vendor at the time of disclosure; or (c) is rightfully
+obtained by Vendor on a non-confidential basis from a third party. If Vendor is
+required by applicable law to disclose any Confidential Information, Vendor will
+immediately notify Purchaser so that Purchaser may seek, at Purchaser's expense,
+a protective order or other remedy, and Vendor will reasonably assist Purchaser
+therewith. If consulted by the news media or other third parties about this PO or the
+work carried out under this PO, Vendor will refer the enquiry to Purchaser for its
+response.
+
+42. USE OF PURCHASER’S NAME. Vendor will not use the World Bank Group's
+or Purchaser's name or logo in any manner without first obtaining written consent
+from the World Bank Group's Chief of Corporate Procurement, except that Vendor
+may use Purchaser's name, only, in its customer lists or resumes without
+Purchaser's prior consent.
+
+43. WORLD BANK GROUP VENDOR POLICIES AND PROCUREMENT
+INTEGRITY
+
+a. Vendor will comply with the World Bank Group's Vendors Code of Conduct,
+Vendor Eligibility Policy, the Restrictions on Current and Former World Bank
+Group Staff, and all other applicable World Bank Group vendor policies
+(together, the "WBG Vendor Policies”), which are available upon request or at
+Purchaser's website: __https://www.worldbank.ora/en/about/corporate-
+procurementvendors. Vendor represents and warrants that Vendor and
+Vendor's employees are in compliance with the WBG Vendor Policies; and have
+not engaged in conduct that would lead to suspension, debarment or a finding
+of ineligibility under the World Bank Group's Vendor Eligibility Policy.
+
+b. Vendor will use reasonable efforts to ensure that funds paid to Vendor by the
+World Bank Group are not used to finance, support, or conduct terrorism.
+
+c. Vendor expressly acknowledges and agrees to Purchaser's policies on labor,
+human rights, social responsibility, environmental conduct, and inclusive
+sourcing as detailed in the World Bank Group's Vendors Code of Conduct.
+
+d. The amounts payable by Purchaser under this PO constitute Vendor's and its
+employees’ sole remuneration in connection with this PO. Neither Vendor nor
+any of its employees will accept for its or their own benefit any trade commission,
+discount, or similar payment in connection with activities pursuant to this PO, or
+in the discharge of its obligations hereunder.
+
+e. A breach of this section 13 is a material breach of an essential term of this PO.
+
+14. ON-SITE POLICIES. If any Goods or Services under this PO will be delivered
+or performed on Purchaser's premises, Vendor will (a) at Purchaser's request
+undertake, at its own expense and to the extent permitted by law, a background
+investigation for all employees and any subcontractors assigned to perform work
+at Purchaser's premises; and (b) comply with Purchaser's on-site policies and
+procedures, including the World Bank Group's Code of Conduct for On-Site Vendor
+Employees and the Security, Fire and Safety Regulations for World Bank Group
+Onsite Vendor Employees. Access to World Bank Group premises is subject to
+Purchaser's approval in all cases.
+
+15. SUBCONTRACTORS. Vendor will not delegate or subcontract any of its
+obligations under this PO without Purchaser's prior written consent in each case.
+Vendor will: (a) ensure that any subcontractors performing work under this PO
+comply with the terms and conditions of this PO, and (b) remain responsible and
+liable for the acts and omissions of any such subcontractors
+
+--- PAGE 2 ---
+16. INTELLECTUAL PROPERTY.
+
+a. All intellectual property rights, whether registered or unregistered and
+including copyrights, patents, trademarks, trade secrets, know-how and
+moral rights, (collectively, "Intellectual Property Rights") in and to all
+documents, work product, and other materials that are delivered to
+Purchaser under this PO or prepared by or on behalf of Vendor in the course
+of performing the Services (collectively, the "Deliverables") will be owned
+exclusively by Purchaser. Vendor hereby irrevocably assigns and will cause
+its employees to irrevocably assign to Purchaser, in each case without
+additional consideration, all right, title and interest throughout the world in
+and to the Deliverables, including all Intellectual Property Rights therein.
+Vendor will cause its employees to irrevocably waive, to the extent permitted
+by applicable law, any and all claims such employees may now or hereafter
+have in any jurisdiction to moral rights or rights of droit moral with respect to
+the Deliverables
+
+b. Notwithstanding the foregoing, Vendor and its licensors are, and will remain,
+the sole and exclusive owners of all right, title and interest in and to
+documents, data, know-how, methodologies, software and other materials
+provided by or used by Vendor in connection with performing any work under
+this PO, in each case developed or acquired by Vendor prior to the
+commencement of this PO (collectively, the "Pre-Existing Materials"),
+including all Intellectual Property Rights therein. Vendor hereby grants
+Purchaser and all other members of the World Bank Group a perpetual,
+irrevocable, worldwide, royalty-free, sublicensable, non-exclusive license to
+any Pre-Existing Materials to the extent incorporated in, combined with, or
+otherwise necessary for the use of the Deliverables for any and alll purposes.
+
+17. INFORMATION SECURITY REQUIREMENTS FOR CONTRACTORS. If
+Vendor will access Purchaser systems or information, electronic or otherwise,
+Vendor will abide by the World Bank Group's Information Security Requirements
+for Contractors available upon request and on Purchaser's website:
+https://www.worldbank.org/en/about/corporate-procurement/vendors.
+
+18. PERSONAL DATA. To the extent Vendor is required to process personal
+data on behalf of Purchaser under or in connection with this PO, Vendor will comply
+ith the Data Protection Annex, which is available upon request and at Purchaser's
+website: https://www.worldbank.org/en/about/corporate-procurement/vendors.
+
+49. AUDIT. Vendor will maintain complete and accurate records relating to this
+PO, including records supporting all amounts invoiced under this PO, in
+accordance with sound and industry accepted accounting practices. Vendor will
+make such records available to Purchaser or Purchaser's designated
+representative at all reasonable times until the expiration of three (3) years after
+the date of the final payment, for the purpose of auditing this PO. In the event
+an audit determines that Purchaser has overpaid Vendor, Vendor will reimburse
+Purchaser, within thirty (30) days after receipt of a written request, the amount of
+any such overpayment.
+
+20. INDEMNIFICATION. To the fullest extent permitted by law, Vendor will
+indemnify and hold harmless Purchaser, its officers, directors, employees and
+Affiliates from and against all claims, suits, damages, and losses, including
+reasonable attorneys’ fees and expenses and settlement amounts, arising from (a)
+Vendor's negligence, wrongful acts or omissions; (b) Vendor's breach of the terms
+of this PO; (c) any claim that the Goods or Services, or any part or use thereof,
+infringe a third party's intellectual property rights; or (d) any claim made by a Vendor
+employee or subcontractor in connection with the supply of Goods and Services
+under this PO.
+
+21. TERMINATION FOR CONVENIENCE. Purchaser may at any time upon
+written notice to Vendor terminate this PO, in whole or in part, if Purchaser
+determines, in its sole and absolute discretion that termination is in its interests.
+In the event of such termination, Vendor will be entitled to be paid for Goods
+delivered or Services properly performed prior to the termination date, provided,
+however, that: (a) such payment will not exceed the total value of this PO and (b)
+Vendor will promptly return to Purchaser any amount paid by Purchaser for Goods
+not delivered or Services not performed as of the termination date. Vendor is not
+entitled to, and expressly waives, payment for profit on any Goods or Services not
+delivered or performed as of the termination date.
+
+22. TERMINATION FOR DEFAULT. If (a) Vendor fails to deliver the Goods or
+perform the Services required by this PO within the time specified or in the manner
+required by this PO, (b) the Goods or Services do not conform, in all respects, to
+the requirements of this PO, (c) Vendor becomes insolvent or unable to meet its
+payment obligations when due, (d) Vendor breaches any representations or
+warranties made under this PO, or (e) Vendor otherwise breaches any material
+obligation under this PO, Purchaser may terminate this PO for default. Purchaser
+may, but is not required to, provide Vendor an opportunity to cure such default. If
+Purchaser terminates for default, and without prejudice to any other rights or
+remedies, Contractor will (y) promptly return to Purchaser any amount paid by
+Purchaser for Goods not delivered or Services not performed as of the effective
+date of the termination, and (z) be liable to Purchaser for any excess costs
+Purchaser incurs in connection with re-procuring the Goods and Services.
+
+23. CONSEQUENTIAL DAMAGES. Neither party will have any liability under this
+
+Page 2 of 2
+
+PO for indirect, incidental, special, punitive, or consequential damages, provided
+that this limitation will not apply to liability arising out of (a) fraud or intentional
+misconduct or (b) Vendor's indemnification obligations.
+
+24. ASSIGNMENT. Vendor will not assign this PO or any monies due or to
+become due to it hereunder without Purchaser's prior written consent. Purchaser
+may, at its sole option and without Vendor's consent, assign this PO to any other
+member of the World Bank Group.
+
+25. DISPUTES. Any dispute, controversy or claim arising out of or relating to this
+PO, or the breach, termination, or invalidity of this PO, will be settled exclusively by
+arbitration in accordance with the UNCITRAL Arbitration Rules. The seat of the
+arbitration will be Washington, D.C., USA. Any resulting arbitral decision will be
+final and binding. Pending final resolution of any claim, dispute, or action arising
+under or related to this PO, Vendor will, if requested by Purchaser, proceed
+diligently with the performance of this PO. This PO will be govemed by and
+construed in accordance with the UNIDROIT Principles of International Commercial
+Contracts (2016).
+
+26. FORCE MAJEURE. Neither party will be liable for a failure or delay in
+performance of its obligations under this PO to the extent caused by unforeseen
+circumstances beyond its reasonable control, including acts of God, natural
+disasters, terrorism, riots, or war. For the avoidance of doubt, insufficiency of funds,
+financial distress, changes in market prices or conditions, or other forms of hardship
+will not constitute unforeseen circumstances beyond a party's reasonable control.
+
+27. ENTIRE AGREEMENT AND ORDER OF PRECEDENCE. This PO, together
+with any Purchaser documents referenced in this PO, constitutes the sole and
+entire agreement of the parties with respect to the subject matter of this PO, and
+supersedes all prior or contemporaneous understandings, agreements,
+negotiations, representations, warranties, and communications, both written and
+oral, with respect to such matters. This agreement expressly excludes and prevails
+over any of Vendor's general terms and conditions of sale or any other document
+issued by Vendor in connection with this PO. In the event of a conflict in the
+documents that comprise this agreement, any specific terms on the face of this PO
+and these General Terms and Conditions will govern.
+
+28. MODIFICATIONS. Purchaser may issue written changes to this PO. Such
+written changes will constitute offers and will be deemed accepted by Vendor in
+accordance with section 2 above. No modification of this PO will be valid unless in
+writing and signed by an authorized representative of Purchaser. Vendor may not
+change any aspect of this PO without Purchaser's prior written consent.
+
+29, SEVERABILITY. If any provision of this PO is invalid, illegal or unenforceable,
+the remaining provisions of this PO will remain in full force and effect.
+
+30. NOTICES. All notices, consents, claims, demands, waivers, and other
+communications hereunder must be in writing, include the PO number, and be
+addressed (a) if to Purchaser, via email to World Bank Group at
+corporateprocurement@worldbank.org, and (b) if to Vendor, to Vendor at the
+address or email address set forth in this PO. Any notices or other communications
+to Purchaser in connection with sections 22 or 25 of this PO must also be sent, via
+email, to legal-notices@worldbank.org.
+
+34. LANGUAGE. This PO is executed in English, which is the binding and
+controlling language for all matters relating to the meaning or interpretation of this
+PO.
+
+32. RIGHTS AND BENEFITS EXTEND TO THE WORLD BANK GROUP. Any
+benefits or rights, including any licenses, provided or granted by Vendor to the
+Purchaser under this PO will be deemed benefits and rights of all members of the
+World Bank Group.
+
+33. NO THIRD PARTY BENEFICARIES. Except as set out in section 32 above,
+this PO is for the sole benefit of the parties and their respective successors and
+permitted assigns and nothing herein, express or implied, is intended to or will
+confer upon any other person or entity any legal or equitable right, benefit or
+remedy of any nature whatsoever.
+
+34. NO WAIVER. Any waiver of rights under this PO must be express and in
+writing. Neither party will be considered to have waived any rights by not exercising,
+or delaying the exercise of, such rights under this PO.
+
+35. NO AGENCY. This PO does not create any agency, partnership, or joint
+venture between the parties, nor does it create a relationship of employer and
+employee between Purchaser and Vendor or between Purchaser and any of
+Vendor's employees.
+
+36. SURVIVAL. Any provisions of this PO which by their nature should apply
+beyond the term of this PO will remain in force after any termination or expiration
+of this PO including the following sections 11 (Confidentiality), 12 (Use of
+Purchaser's Name), 18 (Personal Data), 19 (Audit), 20 (Indemnification), 25
+(Disputes), 30 (Notices), 37 (Preservation of Immunities).
+
+37. PRESERVATION OF IMMUNITIES. Nothing herein constitutes a limitation
+
+upon or a waiver of the privileges and immunities of Purchaser or any other member
+of the World Bank Group, which privileges and immunities are specifically reserved
